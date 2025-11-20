@@ -35,7 +35,7 @@ Help
 </q-item>
 </q-list>
 </q-scroll-area>
-<q-img class="absolute-top" src= "\images\mountain.jpg" style="height: 192px">
+<q-img class="absolute-top" src="\images\mountain.jpg" style="height: 192px">
 <div class="absolute-bottom bg-transparent">
 <q-avatar size="56px" class="q-mb-sm">
 <img src="/images/Avatar.jpg">

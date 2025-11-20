@@ -35,6 +35,7 @@ import { defineComponent } from 'vue'
 import db from '../firebaseDb'
 import { collection, onSnapshot, addDoc, doc, deleteDoc, updateDoc } from 'firebase/firestore'
 const todoCollectionRef = collection(db, 'ToDoItems') // Database collection reference
+
 export default defineComponent(
 {
 data() {
